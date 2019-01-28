@@ -4,7 +4,7 @@
 
 My personal portfolio - [www.markonestorovic.com](https://www.markonestorovic.com "Link to Website") 
 
-[www.markonestorovic.com](https://markonestorovic.com/images/markonestorovic.png)
+[www.markonestorovic.com](https://markonestorovic.com/images/markonestorovic.jpg)
 
 ## Creator
 #### [Marko Nestorovic](https://www.markonestorovic.com)
